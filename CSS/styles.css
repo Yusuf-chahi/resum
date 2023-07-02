@@ -1,0 +1,9 @@
+body {background-color: azure;}
+hr {background-color :aliceblue; 
+   border-style :dotted none none;
+   border-color: grey;
+   border-width: 5px;
+   width: 50px;}
+   h1 {color: brown;}
+   h2 {color: brown;}
+   h3 {color: brown;}
